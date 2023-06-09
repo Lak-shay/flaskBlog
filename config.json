@@ -1,0 +1,15 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codedatabase",
+        "prod_uri": "mysql://root:@localhost/codedatabase",
+        "tw_url": "https://twitter.com",
+        "fb_url": "https://facebook.com",
+        "gh_url": "https://github.com",
+        "about-subheading": "This is the subheading of about",
+        "about-content": "This is the content of about",
+        "admin-user": "jolly",
+        "admin-pass": "jollypassword",
+        "no_of_posts": 4
+    }
+}
